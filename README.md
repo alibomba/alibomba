@@ -3,7 +3,7 @@
 
 - 🌱 Aktualnie uczę się **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alibomba/portfolio.git](https://github.com/alibomba/portfolio.git)
+- 👨‍💻 Moje portfolio [https://github.com/alibomba/portfolio.git](https://github.com/alibomba/portfolio.git)
 
 - 📄 Doświadczenie **Praktykant w e-lan.pl w Bielsku-Białej**
 
