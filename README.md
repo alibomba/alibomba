@@ -3,7 +3,7 @@
 
 - 🌱 Aktualnie uczę się **Laravel**
 - 🎓 Uczeń 4 klasy **ZSEEIM w Bielsku-Białej profil Technik Informatyk**
-- 💻 Technologie **HTML5, CSS3, JS, React, PHP, Laravel, MySQL**
+- 💻 Technologie **HTML5, CSS3, JS, TypeScript, React, PHP, Laravel, MySQL**
 
 - 👨‍💻 Moje portfolio [https://github.com/alibomba/portfolio.git](https://github.com/alibomba/portfolio.git)
 
