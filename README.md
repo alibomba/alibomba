@@ -3,7 +3,7 @@
 
 - 🌱 Aktualnie uczę się **TailwindCSS**
 
-- 👨‍💻 Portfolio [https://github.com/alibomba/portfolio.git](https://github.com/alibomba/portfolio.git)
+- 👨‍💻 Portfolio [wojciech-bronka.pl](https://wojciech-bronka.pl)
 
 - 📄 Doświadczenie **Fullstack Developer Magme Agency**
 
