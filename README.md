@@ -1,13 +1,13 @@
-<h1 align="center">Cześć👋, jestem Wojtek</h1>
+<h1 align="center">Hi👋, I'm Wojtek</h1>
 <h3 align="center">Junior Fullstack Developer</h3>
 
-- 🌱 Aktualnie uczę się **TailwindCSS**
+- 🌱 Currently learning **TailwindCSS**
 
-- 👨‍💻 Portfolio [wojciech-bronka.pl](https://wojciech-bronka.pl)
+- 👨‍💻 Portfolio [https://wojciech-bronka.pl](https://wojciech-bronka.pl)
 
-- 📄 Doświadczenie **Fullstack Developer Magme Agency**
+- 📄 Experience **Fullstack Developer Magme Agency**
 
-- 📫 Kontakt **wojci.bro@gmail.com**
+- 📫 Contact **wojci.bro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
