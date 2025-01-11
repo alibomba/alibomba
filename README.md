@@ -5,7 +5,7 @@
 
 - 👨‍💻 Portfolio [https://wojciech-bronka.pl](https://wojciech-bronka.pl)
 
-- 📄 Experience **Fullstack Developer Magme Agency + Codetail**
+- 📄 Experience **Fullstack Developer Magme Agency + Wirtualny Biznes Wrocław + Codetail**
 
 - 📫 Contact **wojci.bro@gmail.com**
 
